@@ -1,0 +1,3 @@
+org/example/InvertedIndex.class
+org/example/InvertedIndex$InvertedIndexMapper.class
+org/example/InvertedIndex$InvertedIndexReducer.class
